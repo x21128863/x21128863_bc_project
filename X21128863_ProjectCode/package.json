@@ -1,0 +1,26 @@
+{
+  "name": "x21128863_bd_project",
+  "version": "1.0.0",
+  "description": "this is project submission for block chain concepts. studentID x21128863",
+  "main": "distribute.js",
+  "scripts": {
+    "test": "node distribute.js",
+    "start": "node distribute.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/x21128863/x21128863_bc_project.git"
+  },
+  "author": "Akash",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/x21128863/x21128863_bc_project/issues"
+  },
+  "homepage": "https://github.com/x21128863/x21128863_bc_project#readme",
+  "dependencies": {
+    "big-number": "^2.0.0",
+    "dotenv": "^16.0.0",
+    "ethereumjs-tx": "^2.1.2",
+    "web3": "^1.7.1"
+  }
+}
