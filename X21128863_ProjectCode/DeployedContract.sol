@@ -164,8 +164,8 @@ contract ERC20 is Context, IERC20, IERC20Metadata {
      * construction.
      */
     constructor() {
-        _name = "MY SPECIAL TOKEN";
-        _symbol = "MST";
+        _name = "X21128863 Token";
+        _symbol = "X21128863 symbol";
         
         _mint(msg.sender, 1000000000000000000000000);
     }
